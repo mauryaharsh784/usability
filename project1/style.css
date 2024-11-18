@@ -251,6 +251,15 @@ footer{
 .link-column a:hover{
   color: var(--accent-color-dark);
 }
+.subfooter{
+  background-color: #b9cde4;
+}
+.subfooter-container{
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  padding:var(--padding-inline-section)
+}
 
 .spacer {
   min-height: 50vh;
